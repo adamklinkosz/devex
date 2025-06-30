@@ -7,7 +7,7 @@ We should:
 - allow both anonymous and identified submissions,
 - include a feedback summary in our DevEx demo days or Slack channel for transparency.
 
-# 📋 Section 1: Developer Satisfaction
+# 😀 Section 1: Developer Satisfaction
 
 ## 1.1. How satisfied are you with your day-to-day development experience?
 
@@ -22,7 +22,7 @@ We should:
 
 > ⦿ 1 &nbsp; ○ 2 &nbsp; ○ 3 &nbsp; ○ 4 &nbsp; ○ 5
 
-# ⚙️ Section 2: DevEx Impact
+# 💥 Section 2: DevEx Impact
 
 ## 2.1 Have you used any tools, libraries, or templates created by the DevEx group in the past PI?
 
