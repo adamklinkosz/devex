@@ -9,46 +9,44 @@ We should:
 
 # 📋 Section 1: Developer Satisfaction
 
-## How satisfied are you with your day-to-day development experience?
+## 1.1. How satisfied are you with your day-to-day development experience?
 
-<sub>(1 = very frustrated, 5 = very satisfied)</sub><br/>
-⦿ 1 &nbsp; ○ 2 &nbsp; ○ 3 &nbsp; ○ 4 &nbsp; ○ 5
+<sub>(1 = very frustrated, 5 = very satisfied)</sub>
+> ⦿ 1 &nbsp; ○ 2 &nbsp; ○ 3 &nbsp; ○ 4 &nbsp; ○ 5
 
-## How easy is it to discover and reuse existing libraries or tools across teams?
+## 1.2. How easy is it to discover and reuse existing libraries or tools across teams?
 
-⦿ 1 &nbsp; ○ 2 &nbsp; ○ 3 &nbsp; ○ 4 &nbsp; ○ 5
+> ⦿ 1 &nbsp; ○ 2 &nbsp; ○ 3 &nbsp; ○ 4 &nbsp; ○ 5
 
-## How confident are you in onboarding a new teammate quickly and efficiently in your current setup?
+## 1.3. How confident are you in onboarding a new teammate quickly and efficiently in your current setup?
 
-⦿ 1 &nbsp; ○ 2 &nbsp; ○ 3 &nbsp; ○ 4 &nbsp; ○ 5
+> ⦿ 1 &nbsp; ○ 2 &nbsp; ○ 3 &nbsp; ○ 4 &nbsp; ○ 5
 
 # ⚙️ Section 2: DevEx Impact
 
-## Have you used any tools, libraries, or templates created by the DevEx group in the past PI?
+## 2.1 Have you used any tools, libraries, or templates created by the DevEx group in the past PI?
 
-- ⦿ Yes
-- ○ No
-- ○ I’m not sure
+ >- ⦿ Yes<br/>
+    &nbsp;&nbsp;&nbsp; <sub>If yes — how useful were they?<br/></sub>
+    &nbsp;&nbsp;&nbsp; <sub> (1 = Not useful, 5 = Extremely useful)</sub><br/>
+    &nbsp;&nbsp;&nbsp; ⦿ 1 &nbsp; ○ 2 &nbsp; ○ 3 &nbsp; ○ 4 &nbsp; ○ 5
+> - ○ No
+> - ○ I’m not sure
 
-### If yes — how useful were they?
+## 2.2 Did any DevEx initiative help you avoid duplicated work or save time recently?
 
-<sub>(1 = Not useful, 5 = Extremely useful)</sub><br/>
-⦿ 1 &nbsp; ○ 2 &nbsp; ○ 3 &nbsp; ○ 4 &nbsp; ○ 5
-
-## Did any DevEx initiative help you avoid duplicated work or save time recently?
-
-- ⦿ Yes<br/>
-    <sub> (If yes, optional comment field: How?)</sub><br/>
-    > [Free text]
-- ○ No
-- ○ Not applicable
+> - ⦿ Yes<br/>
+>&nbsp;&nbsp;<sub>How? (optional)</sub><br/>
+>     > [Free text]
+> - ○ No
+> - ○ Not applicable
 
 # 💬 Section 3: Open Feedback
 
-## What’s one friction point in your workflow that DevEx should focus on next?
+## 3.1 What’s one friction point in your workflow that DevEx should focus on next?
 
 > [Free text]
 
-## Any feedback or shout-outs related to DevEx?
+## 3.2 Any feedback or shout-outs related to DevEx?
 
 > [Free text]
